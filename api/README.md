@@ -104,3 +104,5 @@ Example:
 ---
 
 Bugs in the API? Please report any bugs with a GitHub issue.
+
+post method is not resoleing
